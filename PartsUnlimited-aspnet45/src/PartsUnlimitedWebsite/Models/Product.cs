@@ -6,6 +6,7 @@ using Newtonsoft.Json;
 
 namespace PartsUnlimited.Models
 {
+    // fixed issue #2
     public class Product
     {
         [ScaffoldColumn(false)]
